@@ -1,3 +1,4 @@
+//Important imports
 import React from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native'; // Importing react native components
 
