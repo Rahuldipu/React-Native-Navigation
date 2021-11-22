@@ -7,7 +7,7 @@ class HomeScreen extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>You are on home page</Text>
+        <Text>You are on the home page</Text>
         {/* On button click, we will navigate to the about page. */}
         <Button
             title="About page"
